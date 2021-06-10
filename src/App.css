@@ -1,0 +1,27 @@
+@font-face {
+    font-family: "flexo font";
+    src: url("./fonts/Flexo-Thin.woff2");
+  }
+
+
+body {
+    font-family: "flexo font", cursive;
+    color: #473769;
+    
+ 
+  
+}
+
+.principal-container {
+    display: flex;
+    flex-direction: column;
+    
+    
+
+}
+
+.img-style {
+    display: block;
+    width: 45rem;
+    height: auto;
+}
