@@ -9,7 +9,25 @@ const Cryptos = ({resultado}) => {
 
     return ( 
         <div>
-            <p>Cryptomoneda:{ticker.max_bid}</p>
+              <table className='crypto-table__style'>
+          <thead>
+            <tr>
+              
+              <th>Valor Transacción</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              
+              <td>{ticker.max_bid}</td>
+            </tr>
+
+            <tr>
+              
+              <td>{ticker.max_bid}</td>
+            </tr>
+          </tbody>
+        </table>
         
         </div>
      );

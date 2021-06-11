@@ -7,21 +7,52 @@
 body {
     font-family: "flexo font", cursive;
     color: #473769;
+    display: flex;
     
  
   
 }
 
 .principal-container {
-    display: flex;
-    flex-direction: column;
+    width: 100vw;
+     
+   
+}
+
+
+
+.crypto-table__style {
+    position: absolute;
+    right: 100px;
+    text-align: center;
     
     
 
 }
 
+.currency-table__style{
+    position: absolute;
+    right: 250px;
+    text-align: center;
+
+}
+  
+  th,
+  td {
+    
+    padding: 10px;
+    box-sizing: border-box;
+    
+  }
+
+.title{
+    display:flex;
+  justify-content: center;
+}
 .img-style {
     display: block;
-    width: 45rem;
+    position: absolute;
+    left: 10px;
+    width: 60%;
     height: auto;
 }
