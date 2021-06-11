@@ -21,16 +21,16 @@ const Currency = ({resultado}) => {
               <td>{markets[0].id}</td>      
             </tr>
             <tr>
-              <td>{markets[0].id}</td>      
+              <td>{markets[1].id}</td>      
             </tr>
             <tr>
-              <td>{markets[0].id}</td>      
+              <td>{markets[2].id}</td>      
             </tr>
             <tr>
-              <td>{markets[0].id}</td>      
+              <td>{markets[3].id}</td>      
             </tr>
             <tr>
-              <td>{markets[0].id}</td>      
+              <td>{markets[4].id}</td>      
             </tr>
             <tr>
               <td>{markets[0].id}</td>      

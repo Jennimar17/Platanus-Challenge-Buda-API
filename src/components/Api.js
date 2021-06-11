@@ -18,7 +18,6 @@ function Api() {
   
         
     }, []);
-    console.log(markets);
   
   
     return (
