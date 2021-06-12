@@ -5,7 +5,7 @@ Usando la **API de Buda.com** ([https://api.buda.com/](https://api.buda.com/)), 
 
 Luego debes retornar un HTML válido con una tabla con los resultados.
 
-
+**Deploy en Vercel** ([https://platanus-challenge-buda-api.vercel.app/]
 
 
 # Getting Started with Create React App
