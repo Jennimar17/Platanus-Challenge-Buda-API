@@ -1,75 +1,54 @@
-@import url('https://fonts.googleapis.com/css2?family=Lato:wght@100;300;400;700;900&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@100;300;400;700;900&display=swap");
 
 @font-face {
-    font-family: "flexo font";
-    src: url("./fonts/Flexo-Thin.woff2");
-  }
-
+  font-family: "flexo font";
+  src: url("./fonts/Flexo-Thin.woff2");
+}
 
 body {
-    background-color: #FD6A62;
-    font-family: "flexo font", cursive;
-    color: #fff;
-    display: flex;
-    
- 
+  background-color: #fd6a62;
+  font-family: "flexo font", cursive;
+  color: #fff;
+  display: flex;
   
 }
 
 .principal-container {
-    width: 90vw;
-     
-   
+  width: 90vw;
 }
-
-
 
 .crypto-table__style {
-    position: absolute;
-    right: 100px;
-    text-align: center;
-    
-    
-
+  position: absolute;
+  right: 100px;
+  text-align: center;
 }
 
-.currency-table__style{
-    position: absolute;
-    right: 250px;
-    text-align: center;
-
+.currency-table__style {
+  position: absolute;
+  right: 380px;
+  text-align: center;
 }
 
-.transactions-table__style{
-    position: absolute;
-    right: 100px;
-    text-align: center;
-    
+.transactions-table__style {
+  position: absolute;
+  right: 200px;
+  text-align: center;
 }
-  
-  th,
-  td {
-    
-    padding: 10px;
-    box-sizing: border-box;
-    
-    
-  }
 
-  .buda-title{
-      
-  }
+th,
+td {
+  padding: 10px;
+  box-sizing: border-box;
+}
 
-.title{
-    display:flex;
+.title {
+  display: flex;
   justify-content: center;
 }
 .img-style {
-    display: block;
-    position: absolute;
-    left: -120px;
-    top: -120px;
-    width: 70%;
-    height: auto;
-    
+  display: block;
+  position: absolute;
+  bottom: -250px;
+  left: -140px;
+  width: 70%;
 }

@@ -1,3 +1,13 @@
+# Challenge Platanus
+
+
+Usando la **API de Buda.com** ([https://api.buda.com/](https://api.buda.com/)), crea un código en Ruby que obtenga la transacción de mayor valor en las últimas 24 horas para cada uno de los mercados en que opera.
+
+Luego debes retornar un HTML válido con una tabla con los resultados.
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
